@@ -48,7 +48,7 @@ Here's what makes Sapling different: keep scrolling and watch what happens next.
   image-path="images/mvh-women-supervision.jpg"
   above-box-space = "100vh"
   below-box-space = "80vh"
-  box-content=' If you don't experiment, don't call yourself a farmer, okay? All farmers experiment.'
+  box-content="If you don't experiment, don't call yourself a farmer, okay? All farmers experiment."
 %}
 
 
