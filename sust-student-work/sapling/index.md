@@ -1,5 +1,5 @@
 ---
-title: Sapling
+title: Fred Koster Farmer Profile
 author: Fred Gibbs
 layout: scrollstory
 date: 2025-07-21
