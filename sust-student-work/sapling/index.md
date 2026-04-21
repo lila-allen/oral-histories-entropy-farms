@@ -102,7 +102,7 @@ Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. M
 ## Block Quotes for Primary Sources
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est.
 
-> As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
+> I failed some years, I succeeded in others, and I have no regrets, but my experience may not reproduce amongst others, or replicate what others have experiences. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
 
 Block quotes span the full text width and are perfect for extended quotations from archival sources, documents, or scholarly works. They're visually distinct from the scrollybox overlays and pull quotes.
 
