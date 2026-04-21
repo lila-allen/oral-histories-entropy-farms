@@ -46,7 +46,7 @@ Here's what makes Sapling different: keep scrolling and watch what happens next.
 
 {% include scrollybox/bg.html
   image-path="images/scrolly-box-picture.jpg"
-  above-box-space = "70vh"
+  above-box-space = "80vh"
   below-box-space = "40vh"
   box-content="If you don't experiment, don't call yourself a farmer, okay? All farmers experiment."
 %}
