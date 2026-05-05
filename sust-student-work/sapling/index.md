@@ -18,7 +18,7 @@ tags:
 
 # A Farmer Profile - Narrated by Fred Koster of Entropy Farms
 ## Interviewed by: Glyn Wilson-Charles, Fall 2025 GEOG-589 Qualitative Methods class
-# Web Profile by: Lila Allen & Monic Robles, Spring 2026 SUST-364 Local Food Systems Practicum class
+## Web Profile by: Lila Allen & Monic Robles, Spring 2026 SUST-364 Local Food Systems Practicum class
 
 This essay demonstrates **intermediate ScrollStory features**—building on what you learned in Seedling by adding scrollyboxes, carousels, and more sophisticated visual storytelling. As you scroll, we'll point out what makes this more advanced than a Seedling essay.
 
