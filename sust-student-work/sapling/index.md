@@ -17,7 +17,9 @@ tags:
 ---
 
 # A Farmer Profile - Narrated by Fred Koster of Entropy Farms
-Interviewed By: Glyn Wilson-Charles, Fall 2025 GEOG-589 Qualitative Methods class
+Interviewed by: Glyn Wilson-Charles, Fall 2025 GEOG-589 Qualitative Methods class
+Web Profile by: Lila Allen & Monic Robles, Spring 2026 SUST-364 Local Food Systems Practicum class
+
 This essay demonstrates **intermediate ScrollStory features**—building on what you learned in Seedling by adding scrollyboxes, carousels, and more sophisticated visual storytelling. As you scroll, we'll point out what makes this more advanced than a Seedling essay.
 
 **What makes this a "Sapling" essay?** It includes everything from Seedling (headings, images, footnotes, pull quotes) plus immersive components: text overlaying background images, image carousels for comparisons, and more dynamic pacing. This is where ScrollStories start feeling cinematic.
