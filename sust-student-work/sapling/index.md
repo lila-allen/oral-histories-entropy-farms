@@ -31,7 +31,7 @@ The text below includes both explanations and filler content to show how these c
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Fred Koster accompanies by wife Diana Koster. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
+caption="Fred Koster accompanied by wife Diana Koster. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
 image-path="images/Fred + Diana.png"
 %}
 
