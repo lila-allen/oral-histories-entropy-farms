@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh v
 Here's what makes Sapling different: keep scrolling and watch what happens next. You're about to see text appear **over** a background image, creating an immersive reading experience.
 
 {% include scrollybox/bg.html
-  image-path="GreenHouse.jpeg"
+  image-path="images/green-house.jpeg"
   above-box-space = "80vh"
   below-box-space = "40vh"
   box-content="If you don't experiment, don't call yourself a farmer, okay? All farmers experiment."
