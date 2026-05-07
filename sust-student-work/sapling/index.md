@@ -20,12 +20,13 @@ tags:
 ### Interviewed by: Glyn Wilson-Charles, Fall 2025 GEOG-589 Qualitative Methods class
 ### Web Profile by: Lila Allen & Monic Robles, Spring 2026 SUST-364 Local Food Systems Practicum class
 
-This essay demonstrates **intermediate ScrollStory features**—building on what you learned in Seedling by adding scrollyboxes, carousels, and more sophisticated visual storytelling. As you scroll, we'll point out what makes this more advanced than a Seedling essay.
+## Background
+Fred Koster is an expert in farming along the middle Rio Grande with **45 years of experience farming in Albuquerque.** After his roots growing up on a 70-acre farm in rural Ohio, he moved to Albuquerque and began farming in his backyard until Entropy Farms creation. Entropy farms was a small scale 2-acre vegetable farm for the last 10 years until Kosters retirement in late 2025. Although Koster did not have aspirations of becoming a farmer from a young age, he could not escape the “scattering of small-time farming in the family” that traces back through a long lineage to his “great great grandfather [who] was a gardener to the King of Denmark at Kronborg Castle, known as Elsinore of [Hamlet] fame”
 
-**What makes this a "Sapling" essay?** It includes everything from Seedling (headings, images, footnotes, pull quotes) plus immersive components: text overlaying background images, image carousels for comparisons, and more dynamic pacing. This is where ScrollStories start feeling cinematic.
 
-The text below includes both explanations and filler content to show how these components work in practice.
+Simply being born into farming wasn’t enough to foster a lifetime of work. Koster’s love for growing vegetables and supporting his community is the true fuel for his farming. **“I love to put a seed in the ground and up it comes. To be able to do this over and over again, year after year, was a big factor”.** He reflected that was as rewarding as getting to educate kids who would come up to his stand on where the lettuce and tomatoes in their hands came from.
 
+Although Entropy Farms no longer exists and Fred Koster has moved on to other endeavors elsewhere, a lot can be learned from his decades of experience. 
 
 ## Building on Seedling Basics
 {% include images/figure.html
