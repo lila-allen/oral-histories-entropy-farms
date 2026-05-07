@@ -28,7 +28,7 @@ Simply being born into farming wasn’t enough to foster a lifetime of work. Kos
 
 Although Entropy Farms no longer exists and Fred Koster has moved on to other endeavors elsewhere, a lot can be learned from his decades of experience. 
 
-## Building on Seedling Basics
+## Experimentation & Knowledge Sharing
 {% include images/figure.html
 class="right"
 width="48%"
