@@ -40,7 +40,7 @@ Koster reflects on the ways he learned methods and techniques for farming:
 
 > I would say that experimenting and getting tips from other farmers was the way. But you had to do it…The doing was the fun part.
 
-Collaborative knowledge sharing is in the nature of farming “farmers generally like to talk and share.” Although it is important to gain insight from fellow local farmers who are working under very similar environmental conditions and economic environment, Koster has learned more from talking with farmers from neighboring states like Arizona, Texas, Colorado, and California. 
+Collaborative knowledge sharing is in the nature of farming. “farmers generally like to talk and share.” Although it is important to gain insight from fellow local farmers who are working under very similar environmental conditions and economic environment, Koster has learned more from talking with farmers from neighboring states like Arizona, Texas, Colorado, and California. 
 
 ## Experimentation
 Koster was forced to get quite creative in order to overcome the multitude of challenges associated with farming in the arid southwest. Koster’s creative and scientific approach led to some brilliant discoveries. For example, he used the concept of biomimicry to pollinate plants inside his hoophouse that were sheltered from the wind hindering natural pollination. He accomplished this by “[using] an electric toothbrush, which vibrates at the frequency of a bumblebee, the natural pollinator of tomatoes.” Koster would do this every other day to every tomato blossom in his greenhouse. Although quite tedious it proved to be a success producing gorgeous tomatoes. 
