@@ -36,11 +36,15 @@ Although Entropy Farms is no longer in operation and Fred Koster has moved on to
 
 ## Experimentation & Knowledge Sharing
 
-Everything from Seedling still works here: images with captions, footnotes, section headings.[^note1] The Sapling template doesn't replace what you learned—it **adds** to it.
+Koster reflects on the ways he learned methods and techniques for farming:
+
+> I would say that experimenting and getting tips from other farmers was the way. But you had to do it…The doing was the fun part. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
 
 [^note1]: Footnotes continue to work exactly as before. All your Seedling skills carry forward.
 
-This layered approach is intentional. Master the basics, then add complexity incrementally. You're not learning a whole new system; you're expanding your toolkit with a few powerful new components.
+Collaborative knowledge sharing is in the nature of farming “farmers generally like to talk and share.” Although it is important to gain insight from fellow local farmers who are working under very similar environmental conditions and economic environment, Koster has learned more from talking with farmers from neighboring states like Arizona, Texas, Colorado, and California. 
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
 
