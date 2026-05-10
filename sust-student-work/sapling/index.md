@@ -23,16 +23,16 @@ tags:
 ## Background
 Fred Koster is an expert in farming along the middle Rio Grande with **45 years of experience farming in Albuquerque.** After his roots growing up on a 70-acre farm in rural Ohio, he moved to Albuquerque and began farming in his backyard until Entropy Farms started. Entropy Farms was a small-scale 2-acre vegetable farm for the last 10 years until Koster’s retirement in late 2025. Although Koster did not have aspirations of becoming a farmer from a young age, he could not escape the “scattering of small-time farming in the family” that traces back through a long lineage to his “great, great grandfather [who] was a gardener to the King of Denmark at Kronborg Castle, known as Elsinore of [Hamlet] fame”.
 
-Simply being born into farming wasn’t enough to foster a lifetime of work. Koster’s love for growing vegetables and supporting his community is the true fuel for his farming. **“I love to put a seed in the ground and up it comes. To be able to do this over and over again, year after year, was a big factor”** He says. After following up to him with a phone call he shared that nothing was as rewarding as getting to educate kids who would come up to his stand on where the lettuce and tomatoes in their hands came from.
-
-Although Entropy Farms is no longer in operation and Fred Koster has moved on to other endeavors elsewhere, a lot can be learned from his decades of experience. 
-
 {% include images/figure.html
 class="right"
 width="48%"
 caption="Fred Koster accompanied by wife Diana Koster. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
 image-path="images/Fred + Diana.png"
 %}
+
+Simply being born into farming wasn’t enough to foster a lifetime of work. Koster’s love for growing vegetables and supporting his community is the true fuel for his farming. **“I love to put a seed in the ground and up it comes. To be able to do this over and over again, year after year, was a big factor”** He says. After following up to him with a phone call he shared that nothing was as rewarding as getting to educate kids who would come up to his stand on where the lettuce and tomatoes in their hands came from.
+
+Although Entropy Farms is no longer in operation and Fred Koster has moved on to other endeavors elsewhere, a lot can be learned from his decades of experience. 
 
 ## Experimentation & Knowledge Sharing
 
