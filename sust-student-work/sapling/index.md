@@ -34,23 +34,20 @@ Simply being born into farming wasn’t enough to foster a lifetime of work. Kos
 
 Although Entropy Farms is no longer in operation and Fred Koster has moved on to other endeavors elsewhere, a lot can be learned from his decades of experience. 
 
-## Experimentation & Knowledge Sharing
+## Knowledge Sharing
 
 Koster reflects on the ways he learned methods and techniques for farming:
 
-> I would say that experimenting and getting tips from other farmers was the way. But you had to do it…The doing was the fun part. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
-
-[^note1]: Footnotes continue to work exactly as before. All your Seedling skills carry forward.
+> I would say that experimenting and getting tips from other farmers was the way. But you had to do it…The doing was the fun part.
 
 Collaborative knowledge sharing is in the nature of farming “farmers generally like to talk and share.” Although it is important to gain insight from fellow local farmers who are working under very similar environmental conditions and economic environment, Koster has learned more from talking with farmers from neighboring states like Arizona, Texas, Colorado, and California. 
 
+## Experimentation
+Koster was forced to get quite creative in order to overcome the multitude of challenges associated with farming in the arid southwest. Koster’s creative and scientific approach led to some brilliant discoveries. For example, he used the concept of biomimicry to pollinate plants inside his hoophouse that were sheltered from the wind hindering natural pollination. He accomplished this by “[using] an electric toothbrush, which vibrates at the frequency of a bumblebee, the natural pollinator of tomatoes.” Koster would do this every other day to every tomato blossom in his greenhouse. Although quite tedious it proved to be a success producing gorgeous tomatoes. 
 
+Reading books and getting information from other farmers can only get you so far. Koster had to try things for himself, and a lot of things didn’t work. “I failed some years, I succeeded in others, and I have no regrets, but my experience may not reproduce amongst others or replicate what others have experienced.” One of his major successes came by accident. After planting a tomato crop in compost that randomly had nasturtium seeds mixed in, he noticed that spider mites were deterred from these tomatoes! Comparing them to a separate plot that had no nasturtiums growing side by side he found those tomatoes to be totally infested with spider mites.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-
-## Your First Scrollybox
-Here's what makes Sapling different: keep scrolling and watch what happens next. You're about to see text appear **over** a background image, creating an immersive reading experience.
+Techniques like companion plants, and hand pollination are just a few of the genius practices Koster discussed. Through trial and error he discovered that flood irrigation produced hotter peppers than drip irrigation, early planting was effective in reducing squash bugs, and he found that achieving 7% carbon content made for the healthiest soil.
 
 {% include scrollybox/bg.html
   image-path="images/green-house.jpeg"
