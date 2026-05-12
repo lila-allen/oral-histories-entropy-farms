@@ -22,7 +22,7 @@ tags:
 
 
 {% include media/audio.html
-  src="/assets/audio/sample-podcast.mp3"
+  src="podcast.mp3"
 %}
 
 
