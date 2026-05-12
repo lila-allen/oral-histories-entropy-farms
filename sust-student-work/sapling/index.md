@@ -20,6 +20,12 @@ tags:
 **Interviewed by: Glyn Wilson-Charles, Fall 2025 GEOG-589 Qualitative Methods class**
 **Web Profile by: Lila Allen & Monic Robles, Spring 2026 SUST-364 Local Food Systems Practicum class**
 
+
+{% include media/audio.html
+  src="/assets/audio/sample-audio.mp3"
+%}
+
+
 ## Background
 Fred Koster is an expert in farming along the middle Rio Grande with **45 years of experience farming in Albuquerque.** After his roots growing up on a 70-acre farm in rural Ohio, he moved to Albuquerque and began farming in his backyard until Entropy Farms started. Entropy Farms was a small-scale 2-acre vegetable farm for the last 10 years until Koster’s retirement in late 2025. Although Koster did not have aspirations of becoming a farmer from a young age, he could not escape the “scattering of small-time farming in the family” that traces back through a long lineage to his “great, great grandfather [who] was a gardener to the King of Denmark at Kronborg Castle, known as Elsinore of [Hamlet] fame”.
 
