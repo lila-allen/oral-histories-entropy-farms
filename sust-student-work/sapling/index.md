@@ -53,7 +53,7 @@ Koster reflects on the ways he learned methods and techniques for farming:
 **Hear from Fred Koster how the war on social welfare programs effect farming**
 
 {% include media/audio.html
-  src="/assets/audio/snap.mp3"
+  src="audio/snap.mp3"
 %}
 
 ## Experimentation
@@ -84,7 +84,7 @@ An additional limitation Koster faced was the mineral composition of the soil he
 **Fred Koster on soil moisture**
 
 {% include media/audio.html
-  src="/assets/audio/soil.mp3"
+  src="/audio/soil.mp3"
 %}
 
 ---
