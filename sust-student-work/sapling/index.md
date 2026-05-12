@@ -21,7 +21,7 @@ tags:
 **Web Profile by: Lila Allen & Monic Robles, Spring 2026 SUST-364 Local Food Systems Practicum class**
 
 
-{% include media/audio.html
+{% include podcast.html
   src="podcast.mp3"
 %}
 
