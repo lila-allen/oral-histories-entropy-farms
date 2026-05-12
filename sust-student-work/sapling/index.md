@@ -25,6 +25,7 @@ tags:
 {% include media/audio.html
   src="audio/podcast.mp3"
 %}
+**Click the audio samples throughout the website to hear how Koster approached different aspects of farming**
 
 ## Background
 Fred Koster is an expert in farming along the middle Rio Grande, with **45 years of experience farming in Albuquerque.** After growing up on a 70-acre farm in rural Ohio, he moved to Albuquerque and began farming in his backyard until he started Entropy Farms. Entropy Farms was a small-scale 2-acre vegetable farm that operated for ten years until Koster’s retirement in late 2025. Although Koster did not have aspirations of becoming a farmer from a young age, he could not escape the “scattering of small-time farming in the family” that traces back through a long lineage to his “great, great grandfather [who] was a gardener to the King of Denmark at Kronborg Castle, known as Elsinore of [Hamlet] fame.”
@@ -58,7 +59,7 @@ Reading books and getting information from other farmers can only get you so far
 I failed some years, I succeeded in others, and I have no regrets, but my experience may not reproduce amongst others or replicate what others have experienced." %}
 
  One of his major successes came by accident. After planting a tomato crop in compost that randomly had nasturtium seeds mixed in, he noticed that spider mites were deterred from these tomatoes! Comparing them to a separate plot that had no nasturtiums growing side by side, he found those tomatoes to be totally infested with spider mites.
- 
+
 Techniques like companion plants and hand pollination are just a few of the genius practices Koster shares. Through trial and error, he discovered that flood irrigation produced hotter peppers than drip irrigation, early planting was effective in reducing squash bugs, and achieving 7% carbon content made for the healthiest soil.
 
 {% include scrollybox/bg.html
@@ -73,7 +74,10 @@ Settled in the Albuquerque urban area, Koster faced many challenges cultivating 
 
 Most of the labor on Koster’s farm was centered around transplanting crops, fixing leaks, and managing summer pests. The timing of all the maintenance is crucial to the crops’ success, especially when it comes to the amount of water the plants receive. “There was a lot of work to maintain the water at just the right level. If it’s too wet, the roots can’t breathe. Roots need oxygen, not just leaves. Too dry and you start getting dieback and loss of productivity.” Dealing with infestations of summer insects was another hurdle to get past. Squash bugs and spider mites populating branches would push him to chop, spray, or compost a lot of his plants. 
 An additional limitation Koster faced was the mineral composition of the soil he worked on. A good farmer knows that the soil needs the right combination of nutrients, minerals, and moisture to foster strong and healthy plants. Though the nutrient and mineral composition of soil in Albuquerque is very different from that of other areas. One farmer may succeed in growing a certain crop, while another farmer may struggle to get that same crop past germination. Koster’s solution to this is to simply grow other crops that do well with the soil you have. 
-
+**Fred Koster on soil moisture**
+{% include media/audio.html
+  src="audio/soil-moisture.mp3"
+%}
 ---
 ## Climate Change 
 One of the biggest challenges Fred has faced when it comes to farming is the increasing effects of climate change. With limited access to water and uncertain temperature changes, it’s not easy to consistently meet demands for crops. 
