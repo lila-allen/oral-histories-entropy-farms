@@ -27,7 +27,7 @@ tags:
 %}
 
 ## Background
-Fred Koster is an expert in farming along the middle Rio Grande with **45 years of experience farming in Albuquerque.** After his roots growing up on a 70-acre farm in rural Ohio, he moved to Albuquerque and began farming in his backyard until Entropy Farms started. Entropy Farms was a small-scale 2-acre vegetable farm for the last 10 years until Koster’s retirement in late 2025. Although Koster did not have aspirations of becoming a farmer from a young age, he could not escape the “scattering of small-time farming in the family” that traces back through a long lineage to his “great, great grandfather [who] was a gardener to the King of Denmark at Kronborg Castle, known as Elsinore of [Hamlet] fame”.
+Fred Koster is an expert in farming along the middle Rio Grande, with **45 years of experience farming in Albuquerque.** After growing up on a 70-acre farm in rural Ohio, he moved to Albuquerque and began farming in his backyard until he started Entropy Farms. Entropy Farms was a small-scale 2-acre vegetable farm that operated for ten years until Koster’s retirement in late 2025. Although Koster did not have aspirations of becoming a farmer from a young age, he could not escape the “scattering of small-time farming in the family” that traces back through a long lineage to his “great, great grandfather [who] was a gardener to the King of Denmark at Kronborg Castle, known as Elsinore of [Hamlet] fame.”
 
 {% include images/figure.html
 class="right"
@@ -36,7 +36,7 @@ caption="Fred Koster accompanied by wife Diana Koster. [Source](https://rmoa.unm
 image-path="images/Fred + Diana.png"
 %}
 
-Simply being born into farming wasn’t enough to foster a lifetime of work. Koster’s love for growing vegetables and supporting his community is the true fuel for his farming. **“I love to put a seed in the ground and up it comes. To be able to do this over and over again, year after year, was a big factor”** He says. After following up to him with a phone call he shared that nothing was as rewarding as getting to educate kids who would come up to his stand on where the lettuce and tomatoes in their hands came from.
+Simply being born into farming wasn’t enough to foster a lifetime of work. Koster’s love for growing vegetables and supporting his community is the true fuel for his farming. **“I love to put a seed in the ground and up it comes. To be able to do this over and over again, year after year, was a big factor,”** he says. After following up to him with a phone call he shared that nothing was as rewarding as getting to educate kids who would come up to his stand asking where the lettuce and tomatoes in their hands came from.
 
 Although Entropy Farms is no longer in operation and Fred Koster has moved on to other endeavors elsewhere, a lot can be learned from his decades of experience. 
 
@@ -47,17 +47,19 @@ Koster reflects on the ways he learned methods and techniques for farming:
 
 > I would say that experimenting and getting tips from other farmers was the way. But you had to do it…The doing was the fun part.
 
-**Collaborative knowledge sharing** is in the nature of farming. “farmers generally like to talk and share.” Although it is important to gain insight from fellow local farmers who are working under very similar environmental conditions and economic environment, Koster has learned more from talking with farmers from neighboring states like Arizona, Texas, Colorado, and California. 
+**Collaborative knowledge sharing** is in the nature of farming. “Farmers generally like to talk and share.” Although it is important to gain insight from fellow local farmers who are working under very similar environmental conditions and economic environment, Koster has learned more from talking with farmers from neighboring states like Arizona, Texas, Colorado, and California. 
 
 ## Experimentation
-Koster was forced to get quite creative in order to overcome the multitude of challenges associated with farming in the arid southwest. Koster’s creative and scientific approach led to some brilliant discoveries. For example, he used the concept of biomimicry to pollinate plants inside his hoophouse that were sheltered from the wind hindering natural pollination. He accomplished this by “[using] an electric toothbrush, which vibrates at the frequency of a bumblebee, the natural pollinator of tomatoes.” Koster would do this every other day to every tomato blossom in his greenhouse. Although quite tedious it proved to be a success, producing gorgeous tomatoes. 
+Koster was forced to get resourceful in order to overcome the multitude of challenges associated with farming in the arid Southwest. Koster’s creative and scientific approach led to some brilliant discoveries. For example, he used the concept of biomimicry to pollinate plants inside his hoophouse that were sheltered from the wind, hindering natural pollination. He accomplished this by “[using] an electric toothbrush, which vibrates at the frequency of a bumblebee, the natural pollinator of tomatoes.” Koster would do this every other day to the tomato blossoms in his greenhouse. Although quite tedious it proved to be a success, producing gorgeous tomatoes. 
+
+Reading books and getting information from other farmers can only get you so far. Koster had to try things out for himself, and a lot of them didn’t work.
 
 {% include typography/aside.html class="left" text="
 I failed some years, I succeeded in others, and I have no regrets, but my experience may not reproduce amongst others or replicate what others have experienced." %}
 
-Reading books and getting information from other farmers can only get you so far. Koster had to try things for himself, and a lot of things didn’t work. One of his major successes came by accident. After planting a tomato crop in compost that randomly had nasturtium seeds mixed in, he noticed that spider mites were deterred from these tomatoes! Comparing them to a separate plot that had no nasturtiums growing side by side he found those tomatoes to be totally infested with spider mites.
-
-Techniques like companion plants, and hand pollination are just a few of the genius practices Koster discussed. Through trial and error he discovered that flood irrigation produced hotter peppers than drip irrigation, early planting was effective in reducing squash bugs, and he found that achieving 7% carbon content made for the healthiest soil.
+ One of his major successes came by accident. After planting a tomato crop in compost that randomly had nasturtium seeds mixed in, he noticed that spider mites were deterred from these tomatoes! Comparing them to a separate plot that had no nasturtiums growing side by side, he found those tomatoes to be totally infested with spider mites.
+ 
+Techniques like companion plants and hand pollination are just a few of the genius practices Koster shares. Through trial and error, he discovered that flood irrigation produced hotter peppers than drip irrigation, early planting was effective in reducing squash bugs, and achieving 7% carbon content made for the healthiest soil.
 
 {% include scrollybox/bg.html
   image-path="images/green-house.jpeg"
