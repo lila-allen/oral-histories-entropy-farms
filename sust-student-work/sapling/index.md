@@ -96,11 +96,10 @@ One of the biggest challenges Fred has faced when it comes to farming is the inc
 Rising temperatures mean having to risk the failure of certain crops, such as when 95-degree weather sterilizes the pollen on tomato blossoms. Unexpected freezes can also sabotage a crop’s success. The solution? Fred has been working around these temperature issues using hoop houses and cover crops to keep the soil viable and get ahead of the winter months. However, the heat is a much bigger problem, to which Fred recommends finding a heat-tolerant variety of your crop or abandoning it for the summer altogether.  
 In Fred’s last year of farming, he admitted that the heat was one of the main factors driving him out of farming. 
 
-##Why Farming is Rewarding
-
+## Why Farming is Rewarding
 
 {% include media/audio.html
-  src="/assets/audio/reward.mp3"
+  src="assets/audio/reward.mp3"
 %}
 
 {% include scrollybox/auto-scroll.html speed=1.5 %}
