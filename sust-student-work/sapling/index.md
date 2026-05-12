@@ -51,6 +51,7 @@ Koster reflects on the ways he learned methods and techniques for farming:
 **Collaborative knowledge sharing** is in the nature of farming. “Farmers generally like to talk and share.” Although it is important to gain insight from fellow local farmers who are working under very similar environmental conditions and economic environment, Koster has learned more from talking with farmers from neighboring states like Arizona, Texas, Colorado, and California. 
 
 **Hear from Fred Koster how the war on social welfare programs effect farming**
+
 {% include media/audio.html
   src="audio/snap-importance.mp3"
 %}
@@ -83,7 +84,7 @@ An additional limitation Koster faced was the mineral composition of the soil he
 **Fred Koster on soil moisture**
 
 {% include media/audio.html
-  src="assets/audio/soil-moisture.mp3"
+  src="audio/soil-moisture.mp3"
 %}
 
 ---
