@@ -23,7 +23,7 @@ tags:
 ## Podcast
 
 {% include media/audio.html
-  src="/assets/audio/podcast.mp3"
+  src="audio/podcast.mp3"
 %}
 
 
