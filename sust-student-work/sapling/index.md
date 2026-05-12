@@ -3,8 +3,8 @@ title: Fred Koster Farmer Profile
 author: Fred Gibbs
 layout: scrollstory
 date: 2025-07-21
-header-image: images/sapling-card.png
-thumbnail: images/sapling-card.png
+header-image: images/green-house.jpeg
+thumbnail: images/green-house.jpeg
 summary: Learn how Fred Koster leveraged experimentation and community knowledge to successfully grow vegetables at Entropy Farms.
 header-title:
 header-position: 0px
