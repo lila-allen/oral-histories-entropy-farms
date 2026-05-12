@@ -41,7 +41,8 @@ Simply being born into farming wasn’t enough to foster a lifetime of work. Kos
 
 Although Entropy Farms is no longer in operation and Fred Koster has moved on to other endeavors elsewhere, a lot can be learned from his decades of experience. 
 
-## Knowledge Sharing
+## Knowledge Sharing Through Community & Urban Farming 
+Farming within an urban community meant that Koster could directly connect with the restaurants and people purchasing his crops. He only sold produce to a handful of local restaurants and three farmers markets at a time to keep up with the demand. “When people were standing in line in front of the table, I knew this was gonna be a good day”.
 
 Koster reflects on the ways he learned methods and techniques for farming:
 
@@ -66,6 +67,12 @@ Techniques like companion plants, and hand pollination are just a few of the gen
   box-content="If you don't experiment, don't call yourself a farmer, okay? All farmers experiment."
 %}
 
+## Ecological Factors
+Settled in the Albuquerque urban area, Koster faced many challenges cultivating in the arid, high desert. 
+
+Most of the labor on Koster’s farm was centered around transplanting crops, fixing leaks, and managing summer pests. The timing of all the maintenance is crucial to the crops’ success, especially when it comes to the amount of water the plants receive. “There was a lot of work to maintain the water at just the right level. If it’s too wet, the roots can’t breathe. Roots need oxygen, not just leaves. Too dry and you start getting dieback and loss of productivity.” Dealing with infestations of summer insects was another hurdle to get past. Squash bugs and spider mites populating branches would push him to chop, spray, or compost a lot of his plants. 
+An additional limitation Koster faced was the mineral composition of the soil he worked on. A good farmer knows that the soil needs the right combination of nutrients, minerals, and moisture to foster strong and healthy plants. Though the nutrient and mineral composition of soil in Albuquerque is very different from that of other areas. One farmer may succeed in growing a certain crop, while another farmer may struggle to get that same crop past germination. Koster’s solution to this is to simply grow other crops that do well with the soil you have. 
+
 
 ## Climate Change 
 One of the biggest challenges Fred has faced when it comes to farming is the increasing effects of climate change. With limited access to water and uncertain temperature changes, it’s not easy to consistently meet demands for crops. 
@@ -75,11 +82,6 @@ One of the biggest challenges Fred has faced when it comes to farming is the inc
 Rising temperatures mean having to risk the failure of certain crops, such as when 95-degree weather sterilizes the pollen on tomato blossoms. Unexpected freezes can also sabotage a crop’s success. The solution? Fred has been working around these temperature issues using hoop houses and cover crops to keep the soil viable and get ahead of the winter months. However, the heat is a much bigger problem, to which Fred recommends finding a heat-tolerant variety of your crop or abandoning it for the summer altogether.  
 In Fred’s last year of farming, he admitted that the heat was one of the main factors driving him out of farming. 
 
-## Ecological Factors
-Settled in the Albuquerque urban area, Koster faced many challenges cultivating in the arid, high desert. 
-
-Most of the labor on Koster’s farm was centered around transplanting crops, fixing leaks, and managing summer pests. The timing of all the maintenance is crucial to the crops’ success, especially when it comes to the amount of water the plants receive. “There was a lot of work to maintain the water at just the right level. If it’s too wet, the roots can’t breathe. Roots need oxygen, not just leaves. Too dry and you start getting dieback and loss of productivity.” Dealing with infestations of summer insects was another hurdle to get past. Squash bugs and spider mites populating branches would push him to chop, spray, or compost a lot of his plants. 
-An additional limitation Koster faced was the mineral composition of the soil he worked on. A good farmer knows that the soil needs the right combination of nutrients, minerals, and moisture to foster strong and healthy plants. Though the nutrient and mineral composition of soil in Albuquerque is very different from that of other areas. One farmer may succeed in growing a certain crop, while another farmer may struggle to get that same crop past germination. Koster’s solution to this is to simply grow other crops that do well with the soil you have. 
 
 
 ## Pull Quotes Still Work
