@@ -40,8 +40,6 @@ Simply being born into farming wasn’t enough to foster a lifetime of work. Kos
 
 Although Entropy Farms is no longer in operation and Fred Koster has moved on to other endeavors elsewhere, a lot can be learned from his decades of experience. 
 
----
-
 ## Community & Urban Farming 
 Farming within an urban community meant that Koster could directly connect with the restaurants and people purchasing his crops. He only sold produce to a handful of local restaurants and three farmers markets at a time to keep up with the demand. “When people were standing in line in front of the table, I knew this was gonna be a good day”.
 
