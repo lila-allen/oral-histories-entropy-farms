@@ -50,6 +50,11 @@ Koster reflects on the ways he learned methods and techniques for farming:
 
 **Collaborative knowledge sharing** is in the nature of farming. “Farmers generally like to talk and share.” Although it is important to gain insight from fellow local farmers who are working under very similar environmental conditions and economic environment, Koster has learned more from talking with farmers from neighboring states like Arizona, Texas, Colorado, and California. 
 
+**Hear from Fred Koster how the war on social welfare programs effect farming**
+{% include media/audio.html
+  src="audio/podcast.mp3"
+%}
+
 ## Experimentation
 Koster was forced to get resourceful in order to overcome the multitude of challenges associated with farming in the arid Southwest. Koster’s creative and scientific approach led to some brilliant discoveries. For example, he used the concept of biomimicry to pollinate plants inside his hoophouse that were sheltered from the wind, hindering natural pollination. He accomplished this by “[using] an electric toothbrush, which vibrates at the frequency of a bumblebee, the natural pollinator of tomatoes.” Koster would do this every other day to the tomato blossoms in his greenhouse. Although quite tedious it proved to be a success, producing gorgeous tomatoes. 
 
@@ -74,10 +79,13 @@ Settled in the Albuquerque urban area, Koster faced many challenges cultivating 
 
 Most of the labor on Koster’s farm was centered around transplanting crops, fixing leaks, and managing summer pests. The timing of all the maintenance is crucial to the crops’ success, especially when it comes to the amount of water the plants receive. “There was a lot of work to maintain the water at just the right level. If it’s too wet, the roots can’t breathe. Roots need oxygen, not just leaves. Too dry and you start getting dieback and loss of productivity.” Dealing with infestations of summer insects was another hurdle to get past. Squash bugs and spider mites populating branches would push him to chop, spray, or compost a lot of his plants. 
 An additional limitation Koster faced was the mineral composition of the soil he worked on. A good farmer knows that the soil needs the right combination of nutrients, minerals, and moisture to foster strong and healthy plants. Though the nutrient and mineral composition of soil in Albuquerque is very different from that of other areas. One farmer may succeed in growing a certain crop, while another farmer may struggle to get that same crop past germination. Koster’s solution to this is to simply grow other crops that do well with the soil you have. 
+
 **Fred Koster on soil moisture**
+
 {% include media/audio.html
   src="audio/soil-moisture.mp3"
 %}
+
 ---
 ## Climate Change 
 One of the biggest challenges Fred has faced when it comes to farming is the increasing effects of climate change. With limited access to water and uncertain temperature changes, it’s not easy to consistently meet demands for crops. 
