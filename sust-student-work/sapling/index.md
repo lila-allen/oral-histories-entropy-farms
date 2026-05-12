@@ -83,7 +83,7 @@ An additional limitation Koster faced was the mineral composition of the soil he
 **Fred Koster on soil moisture**
 
 {% include media/audio.html
-  src="/assets/audio/soil-moisture.mp3"
+  src="assets/audio/soil-moisture.mp3"
 %}
 
 ---
