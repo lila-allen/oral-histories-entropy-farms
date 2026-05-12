@@ -99,7 +99,7 @@ In Fred’s last year of farming, he admitted that the heat was one of the main 
 ## Why Farming is Rewarding
 
 {% include media/audio.html
-  src="audio/reward.mp3"
+  src="audio/rewarding.mp3"
 %}
 
 {% include scrollybox/auto-scroll.html speed=1.5 %}
